@@ -1,2 +1,6 @@
-code-c
-======
+C  experiments
+==============
+
+Topic - implicit shape representation.
+
+Uninteresting at the moment.
