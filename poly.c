@@ -6,9 +6,11 @@
 #define abs(X) (((X)>0)?(X):(-(X))) 
 #endif
 
+#ifndef _WIN32
 typedef int bool;
 static int true = 1;
 static int false = 0;
+#endif
 
 /* Prefixes:
 t_ - test things
