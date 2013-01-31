@@ -1,9 +1,21 @@
 # Object files
 *.o
 
+# Directories
+Debug
+Release
+ipch
+x64
+
 # Libraries
 *.lib
 *.a
+
+# Solutions
+*.user
+*.suo
+*.sln
+*.sdf
 
 # Shared objects (inc. Windows DLLs)
 *.dll
