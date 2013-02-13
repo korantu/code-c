@@ -1,2 +1,2 @@
-check-syntax: poly
+check-syntax: poly threads
 	etags *.c
